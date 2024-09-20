@@ -64,3 +64,4 @@ app.use("*", (req, res) => {
     res.setHeader("Content-Type", "text/html;charset=utf-8")
     res.end(`<h1 style="text-align: center;">buenas aca no hay nada</h1>`)
 })
+console.log("ksmcjkacjna")

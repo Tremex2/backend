@@ -28,6 +28,10 @@ Esta API permite acceder a información sobre gatos y perros a través de rutas 
 - **Método**: `GET`
 - **Descripción**: Respuesta para rutas no definidas, indicando que la página no existe.
 
+## Para ejecutar el Js
+
+### npm run dev2
+
 ## Estructura de Datos
 
 ### Gatitos
