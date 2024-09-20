@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Mittens",
+        "edad": 2,
+        "raza": "Siames"
+    },
+    {
+        "nombre": "Whiskers",
+        "edad": 3,
+        "raza": "Persa"
+    },
+    {
+        "nombre": "Luna",
+        "edad": 1,
+        "raza": "Maine Coon"
+    }
+]

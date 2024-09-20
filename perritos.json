@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "nombre": "Firulais",
+        "raza": "Labrador",
+        "edad": 3,
+        "lucio": "enseñame a poner una imagen profe que no me salio xd",
+        "hobbies": ["correr", "jugar", "dormir"]
+    },
+    {
+        "id": 2,
+        "nombre": "Rex",
+        "raza": "Pastor Alemán",
+        "edad": 5,
+        "lucio": "enseñame a poner una imagen profe que no me salio xd",
+        "hobbies": ["vigilar", "correr", "jugar"]
+    },
+    {
+        "id": 2,
+        "nombre": "thor",
+        "raza": "caniche",
+        "edad": 3,
+        "lucio": "enseñame a poner una imagen profe que no me salio xd"
+    }
+]
